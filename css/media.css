@@ -1,0 +1,167 @@
+@media(max-width:993px){
+    .btn-started {
+        
+        margin-bottom: 20px;
+    }
+    .copyright p {
+        color: #CDCDCD;
+        text-align: center;
+    }
+    .client {
+        margin-left: -50px;
+        margin-top: 30px;
+    }
+}
+
+@media(max-width:768px){
+    .btn-custom{
+        display: none;
+    }
+    .large_btn_join{
+        display: inherit;
+    }
+    .header_content h1 {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 50px;
+        
+    }
+    .header_content p {
+        font-size: 15px;
+        
+    }
+    .btn-started {
+       
+        font-size: 15px;
+    }
+    
+    .feature-content h3 {
+        font-size: 18px;
+        
+    }
+    .feature-content {
+        
+        margin: 10px 0px;
+    }
+    .single_course {
+        margin: 10px 0px;
+    }
+    .single_course h2 {
+       
+        font-size: 23px;
+        
+    }
+    .client {
+        margin-left: -50px;
+        margin-top: 30px;
+    }
+    .client_text {
+        padding: 80px 0px;
+    }
+    .copyright {
+        padding: 0px 158px;
+        width: 100%;
+    }
+}
+@media(max-width:575px){
+    .testimonial_section p {
+        font-size: 15px;
+        
+    }
+    .banner_img {
+        display: none;
+    }
+}
+@media(min-width:538px) and (max-width:426px){
+    .copyright {
+        padding: 0px 100px;
+        width: 100%;
+    }
+    .client {
+        margin-left: 60px;
+        margin-top: 30px;
+    }
+}
+
+@media(min-width:430px) and (max-width:766px){
+    .client {
+        margin-left: 100px;
+        margin-top: 30px;
+    }
+}
+@media(max-width:425px){
+    .copyright {
+        padding: 0px 90px;
+        width: 100%;
+    }
+    .client {
+        margin-left: 90px;
+        margin-top: 45px;
+    }
+}
+@media (max-width:375px){
+    .btn-started {
+        font-size: 14px;
+    }
+    .header_content p {
+       
+        line-height: 30px;
+            
+    }
+    .header_content h5 {
+        
+        font-size: 15px;
+        
+    }
+    .header_content h1 {
+        font-size: 25px;
+        
+        line-height: 45px;
+    }
+    .header_content p {
+        font-size: 14px;
+    }
+    .feature-content h3 {
+        font-size: 17px;
+    }
+    .client {
+        margin-left: 45px;
+        margin-top: 110px;
+    }
+    .copyright {
+        padding: 0px 40px;
+    }
+    .last_part p {
+        
+        font-size: 14px;
+        
+    }
+    .last_part h3 {
+        font-size: 17px;
+       
+    }
+    .btn-custom, .large_btn_join {
+       
+        font-size: 14px;
+    }
+}
+
+@media (max-width:320px){
+    
+    
+    
+    
+    
+   
+    .copyright {
+        padding: 0px 60px;
+        width: 100%;
+    }
+   
+    
+   
+    
+    
+    
+}
+
